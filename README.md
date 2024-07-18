@@ -11,8 +11,8 @@ In this project, I aimed to analyze multiple events within articles to see if th
 
 1. **Crew AI Agent and Task**: analyse financial data and suggest the best trading actions based on the current stock status.
 Have a look at 
-[Basic Task](./Screenshot 2024-07-18 132110.png)
-[Basic Agent](./Screenshot 2024-07-18 132300.png)
+![Basic Task](/Screenshot 2024-07-18 132110.png)
+![Basic Agent](/Screenshot 2024-07-18 132300.png)
 
 3. **Reddit API**: To fetch articles related to financial events.
    See the [Basic example](./data/Apple_articles_20240705_33.csv)
