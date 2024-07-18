@@ -1,8 +1,5 @@
 # financial-event-analytics
 Quick example of how financial events can be extracted using the Reddit API and Crew AI agents, and then used for stock analytics.
-
-![Basic event extract](/event_ext.png)
-
 ## Project Overview
 
 In this project, I aimed to analyse multiple events within articles to see if they overlap and make informed trading decisions based on the extracted financial events. 
@@ -12,9 +9,11 @@ In this project, I aimed to analyse multiple events within articles to see if th
 1. **Crew AI Agent and Task**: analyse financial data and suggest the best trading actions based on the current subreddit / topic.
 Have a look at 
 ![Basic Task](/task.png)
+
+![Basic event extract](/event_ext.png)
 ![Basic Agent](/agent.png)
 
-2. **Reddit API**: To fetch articles related to financial events.
+3. **Reddit API**: To fetch articles related to financial events.
    See the
    [Basic example](/Apple_articles_20240705_33.csv)
    ![Basic example](/article_content.png)
