@@ -17,6 +17,6 @@ Have a look at
 2. **Reddit API**: To fetch articles related to financial events.
    See the
    [Basic example](/Apple_articles_20240705_33.csv)
-   ![Basic example](/article_content.csv)
+   ![Basic example](/article_content.png)
 
 
