@@ -6,19 +6,19 @@ In this project, I aimed to analyse multiple events within articles to see if th
 
 ### Key Components
 
-1. **Crew AI Agent and Task**: analyse financial data and suggest the best trading actions based on the current subreddit / topic.
+**Crew AI Agent and Task**: analyse financial data and suggest the best trading actions based on the current subreddit / topic.
 Have a look at 
 ![Basic Task](/task.png)
 
-![Basic event extract](/event_ext.png)
 ![Basic Agent](/agent.png)
-
-3. **Reddit API**: To fetch articles related to financial events.
+**Reddit API**: To fetch articles related to financial events.
    See the
    [Basic example](/Apple_articles_20240705_33.csv)
    ![Basic example](/article_content.png)
+   ![Basic event extract](/event_ext.png)
 
-3.**Results of AI agents**:
+
+**Results of AI agents**:
 [Basic results](/results_Apple_2024-07-18.csv)
 [Basic event extraction](/events_Apple_2024-07-18.csv)
 
