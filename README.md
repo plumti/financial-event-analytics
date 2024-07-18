@@ -1,10 +1,7 @@
 # financial-event-analytics
-This repository contains a quick example of how using the reddit api and crew ai agents financial events can extracted and used for stock analytics.
-
+Quick example of how financial events can be extracted using the Reddit API and Crew AI agents, and then used for stock analytics.
 
 ![Basic event extract](/event_ext.png)
-
-**Disclaimer: This example is for educational purposes only and should not be interpreted as trading advice. The provided code, timestamps, and datasets are used for visualisation and experimentation purposes and may not represent a realistic trading model.**
 
 ## Project Overview
 
@@ -32,3 +29,6 @@ Writing concise prompts for the AI agents and tasks as LLMs outputs can be irreg
 
 Sources:
 https://www.crewai.com/
+
+
+**Disclaimer: This example is for educational purposes only and should not be interpreted as trading advice. The provided code, timestamps, and datasets are used for visualisation and experimentation purposes and may not represent a realistic trading model.**
