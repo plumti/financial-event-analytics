@@ -5,7 +5,7 @@ This repository contains the results of my financial event extraction and tradin
 
 ## Project Overview
 
-In this project, I aimed to analyze multiple events within articles to see if they overlap and make informed trading decisions based on the extracted financial events. 
+In this project, I aimed to analyse multiple events within articles to see if they overlap and make informed trading decisions based on the extracted financial events. 
 
 ### Key Components
 
@@ -14,8 +14,9 @@ Have a look at
 ![Basic Task](/task.png)
 ![Basic Agent](/agent.png)
 
-3. **Reddit API**: To fetch articles related to financial events.
-   See the [Basic example](Apple_articles_20240705_33.csv)
-   ![Basic example](article_content.csv)
+2. **Reddit API**: To fetch articles related to financial events.
+   See the
+   [Basic example](/Apple_articles_20240705_33.csv)
+   ![Basic example](/article_content.csv)
 
 
