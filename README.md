@@ -15,6 +15,7 @@ Have a look at
 ![Basic Agent](/agent.png)
 
 3. **Reddit API**: To fetch articles related to financial events.
-   See the ![Basic example](Apple_articles_20240705_33.csv)
+   See the [Basic example](Apple_articles_20240705_33.csv)
+   ![Basic example](article_content.csv)
 
 
