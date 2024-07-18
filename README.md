@@ -16,11 +16,11 @@ Have a look at
    [Basic example](/Apple_articles_20240705_33.csv)
    ![Basic example](/article_content.png)
    ![Basic event extract](/event_ext.png)
+[Basic event extraction](/events_Apple_2024-07-18.csv)
 
 
 **Results of AI agents**:
 [Basic results](/results_Apple_2024-07-18.csv)
-[Basic event extraction](/events_Apple_2024-07-18.csv)
 
 ### Challenges 
 Data filtering was tricky,
