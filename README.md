@@ -22,8 +22,8 @@ Have a look at
    ![Basic example](/article_content.png)
 
 3.**Results of AI agents**:
-![Basic Agent](/results_Apple_2024-07-18.csv)
-![Basic Agent](/events_Apple_2024-07-18.csv)
+![Basic results](/results_Apple_2024-07-18.csv)
+![Basic event extraction](/events_Apple_2024-07-18.csv)
 
 ### Challenges 
 Data filtering was tricky,
