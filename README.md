@@ -21,7 +21,7 @@ Have a look at
 
 ### Challenges 
 Data filtering was tricky,
-Writing concise prompts for the AI agents and tasks as LLMs outputs can be unregular in terms of formatting
+Writing concise prompts for the AI agents and tasks as LLMs outputs can be irregular in terms of formatting
 
 Sources:
 https://www.crewai.com/
